@@ -25,10 +25,6 @@ Gmail   ->> cahmet644@gmail.com
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmettCelik1&theme=tokyonight)
 
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=AhmettCelik1&icon=2&width=100&color=0)](https://visitcount.itsvg.in)
 
