@@ -25,6 +25,6 @@ Gmail   ->> cahmet644@gmail.com
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmettCelik1&theme=tokyonight)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmettcelik1&" alt="ahmettcelik1" /></p>
+<p><img align="right"  width="350" height="250"  src="https://github-readme-streak-stats.herokuapp.com/?user=ahmettcelik1&" alt="ahmettcelik1" /></p>
 
 
