@@ -24,8 +24,8 @@ Gmail   ->> cahmet644@gmail.com
 
 <p>&nbsp;<img align="left" width="250" height="150" src="https://github-readme-stats.vercel.app/api?username=AhmettCelik1&show_icons=true&locale=en" alt="AhmettCelik1" /></p>
 
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmettCelik1&theme=tokyonight)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmettcelik1" alt="ahmettcelik1" /></a> </p>
 
 
