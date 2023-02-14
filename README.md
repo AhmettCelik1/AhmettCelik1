@@ -27,3 +27,11 @@ Gmail   ->> cahmet644@gmail.com
 
 [![](https://visitcount.itsvg.in/api?id=AhmettCelik1&icon=2&width=100&color=0)](https://visitcount.itsvg.in)
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmettcelik1&show_icons=true&locale=en&layout=compact" alt="ahmettcelik1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmettcelik1&show_icons=true&locale=en" alt="ahmettcelik1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmettcelik1&" alt="ahmettcelik1" /></p>
+
+
