@@ -20,7 +20,7 @@ Gmail   ->> cahmet644@gmail.com
 
 <p>&nbsp;<img align="left" width="350" height="250" src="https://github-readme-stats.vercel.app/api?username=AhmettCelik1&show_icons=true&locale=en" alt="AhmettCelik1" /></p>
 
-<p><img align="left"  width="350" height="250"  src="https://github-readme-streak-stats.herokuapp.com/?user=ahmettcelik1&" alt="ahmettcelik1" /></p>
+<p><img align="left"  width="250" height="150"  src="https://github-readme-streak-stats.herokuapp.com/?user=ahmettcelik1&" alt="ahmettcelik1" /></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmettCelik1&theme=tokyonight)
 
