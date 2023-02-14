@@ -26,10 +26,9 @@ Gmail   ->> cahmet644@gmail.com
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmettCelik1&theme=tokyonight)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmettcelik1&show_icons=true&locale=en&layout=compact" alt="ahmettcelik1" /></p>
 
 
-
-<p align="right" width="350" height="150" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmettcelik1" alt="ahmettcelik1" /></a> </p>
+<p align="center" width="350" height="150" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmettcelik1" alt="ahmettcelik1" /></a> </p>
 
 
