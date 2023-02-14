@@ -1,13 +1,16 @@
 # 💫 About Me:
 
-Hi, I am Ahmet. I am a 2nd year undergraduate student at Yıldız Technical University, Department of Control and Automation Engineering and member of Autonomous Driving Software Team in YTU AESK.I have gained experiences in autonomous, robotics, software development projects.Currently, I have been acquiring skill in data science and machine learning.
+I'm a 2nd year undergraduate student at Yıldız Technical University, studying Control and Automation Engineering. I'm also a member of the Autonomous Driving Software Team in YTU AESK, where I work on projects related to autonomous vehicles, robotics, and software development.
+
+Throughout my studies and work, I've gained experience in various aspects of autonomous systems, including calibration, sensor fusion, mapping, localization, and control. I'm passionate about applying these skills to real-world problems and creating innovative solutions that push the boundaries of what's possible.
+
+On my GitHub, you'll find projects that demonstrate my skills in these areas, as well as other projects that showcase my programming abilities and creativity. I'm always looking to learn and grow, so feel free to reach out if you have any feedback or opportunities for collaboration.
+
+Thanks for stopping by, and I look forward to connecting with you!
+
 
 ## 🌐 Socials:
 LinkedIn ->>  https://www.linkedin.com/in/ahmet-%C3%A7elik-/
-
-
-
-
 
 Gmail   ->> cahmet644@gmail.com
 
