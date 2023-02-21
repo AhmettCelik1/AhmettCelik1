@@ -14,6 +14,9 @@ LinkedIn ->>  https://www.linkedin.com/in/ahmet-%C3%A7elik-/
 
 Gmail   ->> cahmet644@gmail.com
 
+<a href="https://www.linkedin.com/in/ahmet-%C3%A7elik-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" height="20"></a>
+
+
 
 # 💻 Tech Stack:
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat-square&logo=ros&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat-square&logo=cmake&logoColor=white)
