@@ -10,9 +10,9 @@ Thanks for stopping by, and I look forward to connecting with you!
 
 
 ## 🌐 Socials:
-LinkedIn ->>  https://www.linkedin.com/in/ahmet-%C3%A7elik-/
 
-Gmail   ->> cahmet644@gmail.com
+<a href="mailto:cahmet644@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="20"></a>
+
 
 <a href="https://www.linkedin.com/in/ahmet-%C3%A7elik-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" height="20"></a>
 
