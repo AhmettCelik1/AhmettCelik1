@@ -36,17 +36,9 @@ Thanks for stopping by, and I look forward to connecting with you!
 ###
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=AhmettCelik1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=AhmettCelik1" height="150" alt="languages graph"  />
-</div>
-
-<div align="center">
 [![AhmettCelik1's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmettCelik1&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmettCelik1&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 <p align="center" width="200" height="150" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmettcelik1" alt="ahmettcelik1" /></a> </p>
-
-
 
 
