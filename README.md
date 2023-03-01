@@ -37,8 +37,9 @@ Thanks for stopping by, and I look forward to connecting with you!
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=AhmettCelik1&show_icons=true&theme=normal" alt="AhmettCelik1's github stats" height="180em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmettCelik1&layout=compact&hide=html" alt="AhmettCelik1's top languages" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmettCelik1&layout=compact&langs_count=10" alt="AhmettCelik1's top languages" height="180em">
 </div>
+
 
 
 
