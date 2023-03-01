@@ -41,8 +41,9 @@ Thanks for stopping by, and I look forward to connecting with you!
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmettcelik1" alt="ahmettcelik1" height="150em" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmettcelik1" alt="ahmettcelik1" height="auto" width="100%" data-canonical-src="https://github-profile-trophy.vercel.app/?username=ahmettcelik1&amp;row=1&amp;column=7" style="max-width:100%;"></a>
 </p>
+
 
 
 
