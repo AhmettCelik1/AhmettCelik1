@@ -36,7 +36,7 @@ Thanks for stopping by, and I look forward to connecting with you!
 ###
 
 
-[![AhmettCelik1's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmettCelik1&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmettCelik1&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![AhmettCelik1's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmettCelik1&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?  username=AhmettCelik1&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 <p align="center" width="200" height="150" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmettcelik1" alt="ahmettcelik1" /></a> </p>
