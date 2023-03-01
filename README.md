@@ -35,11 +35,10 @@ Thanks for stopping by, and I look forward to connecting with you!
 
 ###
 
-![AhmettCelik1's github stats](https://github-readme-stats.vercel.app/api?username=AhmettCelik1&show_icons=true&theme=normal) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmettCelik1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AhmettCelik1&show_icons=true&theme=normal" height="200" width="400" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmettCelik1&layout=compact" height="200" width="400" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmettCelik1&show_icons=true&theme=normal" alt="AhmettCelik1's github stats" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmettCelik1&layout=compact" alt="AhmettCelik1's top languages" height="180em">
+</div>
 
 
 
