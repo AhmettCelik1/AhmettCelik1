@@ -35,15 +35,11 @@ Thanks for stopping by, and I look forward to connecting with you!
 
 ###
 
-<div>
+<div style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmettCelik1&show_icons=true&theme=normal" alt="AhmettCelik1's github stats" height="180em">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmettCelik1&layout=compact&langs_count=10" alt="AhmettCelik1's top languages" height="180em">
+  <p align="center" width="200" height="150" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmettcelik1" alt="ahmettcelik1" /></a> </p>
+</div>
 
-
-
-
-
-
-<p align="center" width="200" height="150" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmettcelik1" alt="ahmettcelik1" /></a> </p>
 
 
