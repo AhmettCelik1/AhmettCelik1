@@ -16,6 +16,8 @@ Thanks for stopping by, and I look forward to connecting with you!
 
 <a href="https://www.linkedin.com/in/ahmet-%C3%A7elik-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" height="20"></a>
 
+<a href="https://www.youtube.com/channel/UC-C2MadkR42gcBP1MSVVVQg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube Channel" height="20"></a>
+
 
 
 # 💻 Tech Stack:
