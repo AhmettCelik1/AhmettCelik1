@@ -9,11 +9,6 @@ On my GitHub, you'll find projects that demonstrate my skills in these areas, as
 Thanks for stopping by, and I look forward to connecting with you!
 
 
-
-<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="ahmet-çelik-" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/ahmet-%C3%A7elik-?trk=profile-badge">Ahmet Çelik</a></div>
-              
-
-
 ## 🌐 Socials:
 
 <a href="mailto:cahmet644@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="20"></a>
