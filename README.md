@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm a 3th year undergraduate student at Yıldız Technical University, studying Control and Automation Engineering. I'm also a member of the Autonomous Driving Software Team in YTU AESK, where I work on projects related to autonomous vehicles, robotics, and software development.
+I'm a 4th year undergraduate student at Yıldız Technical University, studying Control and Automation Engineering. I'm also a member of the Autonomous Driving Software Team in YTU AESK, where I work on projects related to autonomous vehicles, robotics, and software development.
 
 Throughout my studies and work, I've gained experience in various aspects of autonomous systems, including calibration, sensor fusion, mapping, localization, and control. I'm passionate about applying these skills to real-world problems and creating innovative solutions that push the boundaries of what's possible.
 
