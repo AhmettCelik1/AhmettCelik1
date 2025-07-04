@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Currently, I am a 4th-year undergraduate student in Control and Automation Engineering. Through various projects, I have gained experiences in robotics, controller design, and autonomous software structures, with a focus on advancing my understanding of system dynamics, control, and autonomous vehicle technologies.
+I am control and automation engineer with hands-on experience in robotics, controller design, and autonomous systems. I focus on system dynamics, control theory, and developing software for intelligent vehicles.
 
 
 
