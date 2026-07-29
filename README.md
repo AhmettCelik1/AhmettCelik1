@@ -1,3 +1,1 @@
-
-I am control and automation engineer with hands-on experience in robotics, controller design, and autonomous systems. I focus on system dynamics, control theory, and developing software for intelligent vehicles.
-
+I am control engineer with hands-on experience in robotics, controller design, state estimation and autonomous systems. I focus on system dynamics, control theory, statistical filters and developing software for intelligent systems.
